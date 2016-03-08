@@ -6,5 +6,5 @@ Perl script to extract plain text from wiki dump in xml. To run the script run t
 
 # Reference
 
-Code can be found from webpage:
+Code shamelessly copied from :
 [http://mattmahoney.net/dc/textdata](http://mattmahoney.net/dc/textdata)
